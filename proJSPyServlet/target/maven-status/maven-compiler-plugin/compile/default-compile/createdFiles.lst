@@ -1,0 +1,7 @@
+com\mycompany\stockpro\servlets\statementOperario.class
+com\mycompany\stockpro\servlets\Operario.class
+com\mycompany\stockpro\servlets\SvEditarOperario.class
+com\mycompany\stockpro\servlets\SvRegistroUser.class
+com\mycompany\stockpro\servlets\SvUsuarios.class
+com\mycompany\stockpro\servlets\SvObtenerOperarios.class
+com\mycompany\stockpro\servlets\OperarioDAO.class

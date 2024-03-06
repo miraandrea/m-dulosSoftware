@@ -1,0 +1,51 @@
+@options
+@packages
+-classpath
+'C:/Users/crist/.m2/repository/javax/javaee-web-api/7.0/javaee-web-api-7.0.jar;C:/Users/crist/.m2/repository/mysql/mysql-connector-java/8.2.0/mysql-connector-java-8.2.0.jar'
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'C:/Users/crist/OneDrive/Documentos/NetBeansProjects/StockPro/src/main/java;C:/Users/crist/OneDrive/Documentos/NetBeansProjects/StockPro/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/crist/OneDrive/Documentos/NetBeansProjects/StockPro/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'StockPro 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'C:/Users/crist/OneDrive/Documentos/NetBeansProjects/StockPro/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'StockPro 1.0-SNAPSHOT API'
+com.mycompany.stockpro.servlets
+C:\Users\crist\.m2\repository\javax\javaee-web-api\7.0\javaee-web-api-7.0.jar = 1702121706641
+C:\Users\crist\.m2\repository\mysql\mysql-connector-java\8.2.0\mysql-connector-java-8.2.0.jar = 1695082324000
+C:\Users\crist\OneDrive\Documentos\NetBeansProjects\StockPro\src\main\java = 1703868838690
+C:\Users\crist\OneDrive\Documentos\NetBeansProjects\StockPro\target\generated-sources\annotations = 1703885369229
+C:\Users\crist\OneDrive\Documentos\NetBeansProjects\StockPro\target\apidocs\allclasses-index.html = 1706980331580
+C:\Users\crist\OneDrive\Documentos\NetBeansProjects\StockPro\target\apidocs\allpackages-index.html = 1706980331585
+C:\Users\crist\OneDrive\Documentos\NetBeansProjects\StockPro\target\apidocs\copy.svg = 1706980331656
+C:\Users\crist\OneDrive\Documentos\NetBeansProjects\StockPro\target\apidocs\element-list = 1706980331462
+C:\Users\crist\OneDrive\Documentos\NetBeansProjects\StockPro\target\apidocs\help-doc.html = 1706980331647
+C:\Users\crist\OneDrive\Documentos\NetBeansProjects\StockPro\target\apidocs\index-all.html = 1706980331618
+C:\Users\crist\OneDrive\Documentos\NetBeansProjects\StockPro\target\apidocs\index.html = 1706980331626
+C:\Users\crist\OneDrive\Documentos\NetBeansProjects\StockPro\target\apidocs\link.svg = 1706980331660
+C:\Users\crist\OneDrive\Documentos\NetBeansProjects\StockPro\target\apidocs\member-search-index.js = 1706980331593
+C:\Users\crist\OneDrive\Documentos\NetBeansProjects\StockPro\target\apidocs\module-search-index.js = 1706980331588
+C:\Users\crist\OneDrive\Documentos\NetBeansProjects\StockPro\target\apidocs\overview-tree.html = 1706980331557
+C:\Users\crist\OneDrive\Documentos\NetBeansProjects\StockPro\target\apidocs\package-search-index.js = 1706980331589
+C:\Users\crist\OneDrive\Documentos\NetBeansProjects\StockPro\target\apidocs\script.js = 1706980331653
+C:\Users\crist\OneDrive\Documentos\NetBeansProjects\StockPro\target\apidocs\search-page.js = 1706980331668
+C:\Users\crist\OneDrive\Documentos\NetBeansProjects\StockPro\target\apidocs\search.html = 1706980331622
+C:\Users\crist\OneDrive\Documentos\NetBeansProjects\StockPro\target\apidocs\search.js = 1706980331665
+C:\Users\crist\OneDrive\Documentos\NetBeansProjects\StockPro\target\apidocs\serialized-form.html = 1706980331504
+C:\Users\crist\OneDrive\Documentos\NetBeansProjects\StockPro\target\apidocs\stylesheet.css = 1706980331650
+C:\Users\crist\OneDrive\Documentos\NetBeansProjects\StockPro\target\apidocs\tag-search-index.js = 1706980331595
+C:\Users\crist\OneDrive\Documentos\NetBeansProjects\StockPro\target\apidocs\type-search-index.js = 1706980331591
